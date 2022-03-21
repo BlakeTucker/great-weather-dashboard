@@ -1,0 +1,98 @@
+.header {
+    background-color: #ee5166;
+    background-image: linear-gradient(315deg, #ee5166 0%, #f08efc 74%);
+    color: Black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+    margin: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.navbar {
+    background-color: #ee5166;
+    background-image: linear-gradient(315deg, #ee5166 0%, #f08efc 74%);
+    color: Black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+    margin: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.search {
+    flex-wrap: wrap;
+    flex: auto;
+    background-color: #ee5166;
+    background-image: linear-gradient(315deg, #ee5166 0%, #f08efc 74%);
+    padding: 10px;
+    border-radius: 12px;
+    width: 17%;
+    height: auto;
+    margin: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.search-form {
+    border-radius: 5px;
+    padding: 2px;
+    height: auto;
+    width: 100%;
+}
+
+.card {
+    background-color: #ee5166;
+    background-image: linear-gradient(315deg, #ee5166 0%, #f08efc 74%);
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+}
+
+#search-button {
+    background-color: #ee5166;
+    cursor: pointer;
+    border-radius: 5px; 
+}
+
+#search-button:hover {
+    background-color: #ee5166;
+    background-image: linear-gradient(315deg, #ee5166 0%, #f08efc 74%);
+} 
+
+.navbar-item {
+    background-color: #ee5166;
+}
+
+.navbar-menu {
+    
+}
+
+.dailyContainer {
+    border: solid black 2px;
+    padding: 5px;
+}
+
+.cityContainer{
+    /* border: solid black 2px; */
+    padding: 5px;
+    background-color: #ee5166;
+    background-image: linear-gradient(315deg, #ee5166 0%, #f08efc 74%);
+    margin: 10px;
+    height: auto;
+    width: 17%;
+    border-radius: 12px;
+}
+
+.forecast {
+    justify-content: center;
+    color: black;
+    background-color: #ee5166;
+    background-image: linear-gradient(315deg, #ee5166 0%, #f08efc 74%);
+    margin: 15px;
+    border-radius: 12px;
+}
+
+.forecastH2 {
+    margin: 15px;
+    padding: 7px;
+}
+
